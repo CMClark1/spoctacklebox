@@ -1,2 +1,2 @@
 # spoctacklebox
-functions used by the SPoC group
+functions used by the SPoC unit 🖖
